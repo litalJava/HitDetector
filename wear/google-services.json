@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1644438022",
+    "firebase_url": "https://watcher-admin.firebaseio.com",
+    "project_id": "watcher-admin",
+    "storage_bucket": "watcher-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1644438022:android:3468efc9c5f0c7ba",
+        "android_client_info": {
+          "package_name": "de.dfki.falldetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1644438022-d6fp1gt29ogfqi7ab98mm136de596lfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYErCms29Q4P6Dh2ro-iZvd13pnUxualQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
